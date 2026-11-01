@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0055-jump-game) |
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0055-jump-game) |
 ## String
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
