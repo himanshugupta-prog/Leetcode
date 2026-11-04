@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0055-jump-game) |
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2553-separate-the-digits-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0055-jump-game) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
