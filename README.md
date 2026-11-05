@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3794-reverse-string-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3794-reverse-string-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
 | ------- |
