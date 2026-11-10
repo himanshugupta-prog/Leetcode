@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
