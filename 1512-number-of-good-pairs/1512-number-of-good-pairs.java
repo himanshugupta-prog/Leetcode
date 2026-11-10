@@ -7,7 +7,7 @@ class Solution {
         }
         for (Map.Entry<Integer, Integer> entry : hash.entrySet()) {
             int freq = entry.getValue();
-            if(freq>1)count+= (freq*(freq-1))/2;
+            count+= (freq*(freq-1))/2;
         }
         return count;  
 
