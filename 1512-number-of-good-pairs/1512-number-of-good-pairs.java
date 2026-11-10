@@ -1,11 +1,15 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
+        HashMap<Integer,Integer> hash = new HashMap<>();
         int count = 0;
         for(int i=0;i<nums.length;i++){
-            for(int j=i+1;j<nums.length;j++){
-                if(nums[i]==nums[j])count++;
-            }
+            hash.put(nums[i],hash.getOrDefault(nums[i],0)+1);
         }
-        return count;
+        for (Map.Entry<Integer, Integer> entry : hash.entrySet()) {
+            int freq = entry.getValue();
+            if(freq>1)count+= (freq*(freq-1))/2;
+        }
+        return count;  
+
     }
 }
