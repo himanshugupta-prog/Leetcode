@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
