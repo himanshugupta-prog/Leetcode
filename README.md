@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0319-bulb-switcher) |
 ## Nim Game
 |  |
 | ------- |
