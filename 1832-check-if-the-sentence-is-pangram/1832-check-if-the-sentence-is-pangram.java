@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        Set<Character> s = new HashSet<>();
+        HashSet<Character> s = new HashSet<>();
         for(char c:sentence.toCharArray()){
             s.add(c);
         }
