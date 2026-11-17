@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1773-count-items-matching-a-rule](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3794-reverse-string-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
