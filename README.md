@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3794-reverse-string-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
