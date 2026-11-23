@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0055-jump-game) |
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1051-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
