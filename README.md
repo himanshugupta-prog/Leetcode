@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2652-sum-multiples) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
