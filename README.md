@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1550-three-consecutive-odds](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1773-count-items-matching-a-rule) |
