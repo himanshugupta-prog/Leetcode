@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
