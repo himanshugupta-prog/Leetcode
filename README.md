@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3024-type-of-triangle) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2942-find-words-containing-character](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3794-reverse-string-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
