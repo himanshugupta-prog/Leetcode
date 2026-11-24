@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
