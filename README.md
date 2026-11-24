@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2974-minimum-number-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2974-minimum-number-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2553-separate-the-digits-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2974-minimum-number-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
