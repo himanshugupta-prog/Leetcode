@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0877-stone-game) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Queue
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0682-baseball-game) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
