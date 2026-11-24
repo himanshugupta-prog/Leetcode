@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Queue
 |  |
 | ------- |
