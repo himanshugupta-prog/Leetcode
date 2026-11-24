@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0709-to-lower-case) |
 | [1436-destination-city](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
