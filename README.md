@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
