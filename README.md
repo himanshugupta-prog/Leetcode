@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2974-minimum-number-game](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3024-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
