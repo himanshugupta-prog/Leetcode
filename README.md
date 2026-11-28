@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3024-type-of-triangle) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/iamhimanshugupta-prog/Leetcode/tree/master/3731-find-missing-elements) |
